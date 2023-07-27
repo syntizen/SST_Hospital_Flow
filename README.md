@@ -1,5 +1,4 @@
-# SST
-SST Hospital Flow
+# SST Hospital Flow
 
 The provided page discusses the Synthetic Sampling Technique (SST) dataset designed to address uncertainty in the hospital environment. The SST simulates the hospital with basic medical information, creating a realistic representation of the hospital setting. In the hospital environment, uncertainty plays a crucial role due to various unpredictable factors, such as patient arrivals, emergency cases, and staff availability.
 
