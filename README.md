@@ -2,7 +2,7 @@
 
 Author: Chi-Wen Chang
 
-Corresponding to research study: Chang, Mike C., and Adel Alaeddini. "Few-shot classification with prototypical neural network for hospital flow recognition under uncertainty." Network Modeling Analysis in Health Informatics and Bioinformatics 13.1 (2024): 19. DOI: https://doi.org/10.1007/s13721-024-00450-9
+Corresponding to research study: Chang, Mike C., and Adel Alaeddini. "Few-shot classification with prototypical neural network for hospital flow recognition under uncertainty." Network Modeling Analysis in Health Informatics and Bioinformatics 13.1 (2024) DOI: https://doi.org/10.1007/s13721-024-00450-9
 
 The provided page discusses the Synthetic Sampling Technique (SST) dataset designed to address uncertainty in the hospital environment. The SST simulates the hospital with basic medical information, creating a realistic representation of the hospital setting. In the hospital environment, uncertainty plays a crucial role due to various unpredictable factors, such as patient arrivals, emergency cases, and staff availability.
 
